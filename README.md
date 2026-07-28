@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atom77-cel/newjourney/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/atom77-cel/newjourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0413-arithmetic-slices](https://github.com/atom77-cel/newjourney/tree/master/0413-arithmetic-slices) |
 ## Dynamic Programming
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atom77-cel/newjourney/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/atom77-cel/newjourney/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
