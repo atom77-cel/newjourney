@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atom77-cel/newjourney/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -35,8 +36,21 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atom77-cel/newjourney/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atom77-cel/newjourney/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
