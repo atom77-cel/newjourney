@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/atom77-cel/newjourney/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/atom77-cel/newjourney/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/atom77-cel/newjourney/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -16,6 +17,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/atom77-cel/newjourney/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/atom77-cel/newjourney/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/atom77-cel/newjourney/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
 | ------- |
