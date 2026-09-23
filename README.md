@@ -10,6 +10,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/atom77-cel/newjourney/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/atom77-cel/newjourney/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/atom77-cel/newjourney/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/atom77-cel/newjourney/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -50,9 +51,11 @@
 | ------- |
 | [0001-two-sum](https://github.com/atom77-cel/newjourney/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/atom77-cel/newjourney/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/atom77-cel/newjourney/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/atom77-cel/newjourney/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -62,4 +65,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/atom77-cel/newjourney/tree/master/0148-sort-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/atom77-cel/newjourney/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
